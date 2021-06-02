@@ -1,0 +1,15 @@
+###OPSBI_python_test###
+#06-05-2021
+
+#The module requires a file in .json format to be imported in the directory
+
+#Dependencies:
+#!pip install isodate
+#!pip install python-dateutil
+#!pip install easygui
+
+import json
+import pandas as pd
+import dateutil.parser
+import isodate
+import os
